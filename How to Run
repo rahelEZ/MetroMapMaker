@@ -1,0 +1,14 @@
+Please follow the following steps to run this Java desktop application
+
+1. Download MetroMapMaker.zip
+2. Open your Java IDE and import the zip file as a new project
+3. Fix the dependencies
+   a. Build a Jar file for Desktop Java Framework(DJF)
+   b. Add the DJF jar file as a library for PropertiesManager
+   c. Add javax.json Jar file as a library to PropertiesManager
+   d. Buid Jar file for PropertiesManager
+   e. Build Jar file for jTPS
+   f. add jar files of DJF, PropertiesManager, jTPS and javax.json to m3
+   g. Run the project
+
+4. You can edit already prepared projects like Fuzhou MetroMap Export. It can be found in the zip file
