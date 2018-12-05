@@ -1,0 +1,306 @@
+
+{
+    "name":"Cracked Egg City",
+    "lines":[
+        {
+            "name":"The Blue Line",
+            "circular":false,
+            "color":{
+                "red":0.0,
+                "green":0.0,
+                "blue":1.0,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Blue 1",
+                "Blue Purple 2",
+                "Blue 3",
+                "Blue 5",
+                "Yellow Blue",
+                "Blue 7",
+                "Blue Purple 8",
+                "Blue 9"
+            ]
+        },
+        {
+            "name":"The Yellow Line",
+            "circular":false,
+            "color":{
+                "red":0.75,
+                "green":0.75,
+                "blue":0.0,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Yellow 1",
+                "Yellow Purple 2",
+                "Yellow 3",
+                "Yellow 5",
+                "Yellow Blue",
+                "Yellow 7",
+                "Yellow Purple 8",
+                "Yellow 9"
+            ]
+        },
+        {
+            "name":"The Red Line",
+            "circular":false,
+            "color":{
+                "red":1.0,
+                "green":0.0,
+                "blue":0.0,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Red 1",
+                "Red Purple 2",
+                "Red 3",
+                "Red Green",
+                "Red 5",
+                "Red 7",
+                "Red Purple 8",
+                "Red 9"
+            ]
+        },
+        {
+            "name":"The Green Line",
+            "circular":false,
+            "color":{
+                "red":0.0,
+                "green":0.75,
+                "blue":0.0,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Green 1",
+                "Green Purple 2",
+                "Green 3",
+                "Red Green",
+                "Green 5",
+                "Green 7",
+                "Green Purple 8",
+                "Green 9"
+            ]
+        },
+        {
+            "name":"The Purple Line",
+            "circular":true,
+            "color":{
+                "red":1.0,
+                "green":0.0,
+                "blue":1.0,
+                "alpha":1.0
+            },
+            "station_names":[
+                "Purple 1",
+                "Purple 2",
+                "Green Purple 2",
+                "Blue Purple 2",
+                "Purple 5",
+                "Purple 6",
+                "Red Purple 8",
+                "Yellow Purple 8",
+                "Purple 9",
+                "Purple 10",
+                "Blue Purple 8",
+                "Green Purple 8",
+                "Purple 13",
+                "Purple 14",
+                "Yellow Purple 2",
+                "Red Purple 2"
+            ]
+        }
+    ],
+    "stations":[
+        {
+            "name":"Blue 1",
+            "x":975.0,
+            "y":175.0
+        },
+        {
+            "name":"Blue 3",
+            "x":975.0,
+            "y":325.0
+        },
+        {
+            "name":"Blue 5",
+            "x":975.0,
+            "y":475.0
+        },
+        {
+            "name":"Purple 9",
+            "x":1275.0,
+            "y":700.0
+        },
+        {
+            "name":"Purple 5",
+            "x":1125.0,
+            "y":250.0
+        },
+        {
+            "name":"Green Purple 2",
+            "x":675.0,
+            "y":250.0
+        },
+        {
+            "name":"Purple 6",
+            "x":1275.0,
+            "y":250.0
+        },
+        {
+            "name":"Purple 1",
+            "x":375.0,
+            "y":250.0
+        },
+        {
+            "name":"Purple 2",
+            "x":525.0,
+            "y":250.0
+        },
+        {
+            "name":"Green Purple 8",
+            "x":675.0,
+            "y":700.0
+        },
+        {
+            "name":"Green 1",
+            "x":675.0,
+            "y":175.0
+        },
+        {
+            "name":"Green 3",
+            "x":675.0,
+            "y":325.0
+        },
+        {
+            "name":"Blue Purple 2",
+            "x":975.0,
+            "y":250.0
+        },
+        {
+            "name":"Red Purple 8",
+            "x":1275.0,
+            "y":400.0
+        },
+        {
+            "name":"Yellow Purple 8",
+            "x":1275.0,
+            "y":550.0
+        },
+        {
+            "name":"Green 5",
+            "x":675.0,
+            "y":475.0
+        },
+        {
+            "name":"Blue 7",
+            "x":975.0,
+            "y":625.0
+        },
+        {
+            "name":"Blue Purple 8",
+            "x":975.0,
+            "y":700.0
+        },
+        {
+            "name":"Green 7",
+            "x":675.0,
+            "y":625.0
+        },
+        {
+            "name":"Blue 9",
+            "x":975.0,
+            "y":775.0
+        },
+        {
+            "name":"Green 9",
+            "x":675.0,
+            "y":775.0
+        },
+        {
+            "name":"Red Green",
+            "x":675.0,
+            "y":400.0
+        },
+        {
+            "name":"Yellow Purple 2",
+            "x":375.0,
+            "y":550.0
+        },
+        {
+            "name":"Yellow 9",
+            "x":1425.0,
+            "y":550.0
+        },
+        {
+            "name":"Yellow 7",
+            "x":1125.0,
+            "y":550.0
+        },
+        {
+            "name":"Red Purple 2",
+            "x":375.0,
+            "y":400.0
+        },
+        {
+            "name":"Yellow 5",
+            "x":825.0,
+            "y":550.0
+        },
+        {
+            "name":"Yellow Blue",
+            "x":975.0,
+            "y":550.0
+        },
+        {
+            "name":"Yellow 3",
+            "x":525.0,
+            "y":550.0
+        },
+        {
+            "name":"Yellow 1",
+            "x":225.0,
+            "y":550.0
+        },
+        {
+            "name":"Red 1",
+            "x":225.0,
+            "y":400.0
+        },
+        {
+            "name":"Purple 10",
+            "x":1125.0,
+            "y":700.0
+        },
+        {
+            "name":"Red 5",
+            "x":825.0,
+            "y":400.0
+        },
+        {
+            "name":"Red 3",
+            "x":525.0,
+            "y":400.0
+        },
+        {
+            "name":"Purple 14",
+            "x":375.0,
+            "y":700.0
+        },
+        {
+            "name":"Purple 13",
+            "x":525.0,
+            "y":700.0
+        },
+        {
+            "name":"Red 9",
+            "x":1425.0,
+            "y":400.0
+        },
+        {
+            "name":"Red 7",
+            "x":1125.0,
+            "y":400.0
+        }
+    ]
+}

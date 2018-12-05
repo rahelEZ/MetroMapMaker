@@ -1,0 +1,77 @@
+/*
+    This style sheet stylizes the controls inside our
+    goLogoLo JavaFX application. Note that controls
+    in the UI must have the same class as those below in 
+    order to be rendered using those properties.
+
+    @author Richard McKenna
+    @author Rahel Zewde
+    @version 1.0
+*/
+
+.color-picker {
+    -fx-padding: 2px;
+}
+
+.edit_toolbar_row {
+    -fx-padding: 0px;
+    -fx-spacing: 10;
+    -fx-background-color: #eee;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 1px;
+    -fx-border-color: #000000;
+}
+
+.left_side_welcome{
+    -fx-background-color: #aff77b;
+    -fx-border-color: #170223;
+    -fx-border-width: 180px;
+    -fx-height: 450px;
+}
+
+.right_side_welcome{
+    -fx-background-color: #d69df9;
+    -fx-border-color: #170223;
+    -fx-border-width: 340px;
+    -fx-height: 450px;
+}
+.confident_element{
+    -fx-height: 50px;
+    -fx-background-color: #aaaaff;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 2px;
+    -fx-border-color: #7777dd;
+    
+    
+    -fx-spacing: 10;
+    -fx-margin: 10px;
+    
+}
+
+.color_chooser_pane {
+    -fx-background-color:seashell;
+    -fx-padding: 0px;
+}
+
+.color_chooser_control {
+    -fx-font-weight:bold;
+    -fx-font-size:20;     
+}
+
+.bordered_pane {
+    -fx-background-color: #656565;
+    -fx-background-radius: 5.0;
+    -fx-padding: 15;
+    -fx-spacing: 10;
+    -fx-border-width: 0.75px;
+    -fx-border-color: #3d4733;
+}
+
+
+.toolbutton {
+    -fx-pref-width: 200px;
+}
